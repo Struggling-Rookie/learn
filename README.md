@@ -40,6 +40,23 @@
 1.使用一对反引号。
 2.也适合做一篇文章的tag
 ```
+## 代码高亮
+```Java
+public static void main(String[]args){} //Java
+```
+```c
+int main(int argc, char *argv[]) //C
+```
+```Bash
+echo "hello GitHub" #Bash
+```
+```javascript
+document.getElementById("myH1").innerHTML="Welcome to my Homepage"; //javascipt
+```
+```cpp
+string &operator+(const string& A,const string& B) //cpp
+```
+`注:`在三个反引号后面加上编程语言的名字，另起一行开始写代码，最后一行再加上三个反引号。
 
 ## 列表
 ### 无序列表
@@ -52,6 +69,13 @@
     * 脚本语言
       * JavaScript
      
+     
+     
+## 表格
+|表头1|表头2|表头3|
+|:------|:------:|------:|
+|1|2|3|
+|4|5|6|
 
 
 
